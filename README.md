@@ -1,7 +1,6 @@
 ## *speak friend and enter*
 
-My name is Sávio Costa. Work with bioinformatics and i'm taking a risk in the programming world. 
-I study microorganisms and molecules of biotechnological interest and environmental microbial resistance. .
+My name is Sávio Costa. An apprentice in programming. Seeking application in the most diverse areas and always open to new knowledge.
 
  ## You can follow me at :
 <div> 
