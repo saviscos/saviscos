@@ -1,6 +1,7 @@
 ## *speak friend and enter*
 
-My name is Sávio Costa. An apprentice in programming. Seeking application in the most diverse areas and always open to new knowledge.
+Specialist in the development of automated pipelines for multi-omics data analysis (Metagenomics, Genomics, and Transcriptomics). 
+Currently focused on biological data integration and environmental monitoring.
 
  ## You can follow me at :
 <div> 
