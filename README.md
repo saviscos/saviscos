@@ -1,8 +1,8 @@
 ## *speak friend and enter*
 
-**EN:** Ph.D. in Genetics and Molecular Biology and Data Scientist specializing in automated pipelines, cloud computing (AWS), and multi-omics data integration. My work bridges bioinformatics and data engineering to process terabyte-scale datasets, focusing on environmental monitoring, the *One Health* approach, and advanced statistical modeling. Constantly exploring agentic AI and machine learning to optimize workflows.
+**EN:** Ph.D. in Genetics and Molecular Biology and Data Scientist specializing in automated pipelines, cloud computing (AWS), and multi-omics data integration. My work bridges bioinformatics and data engineering to process terabyte-scale datasets, focusing on environmental monitoring, the *One Health* approach, and advanced statistical modeling. 
 
-**PT:** Doutor em Genética e Biologia Molecular e Cientista de Dados especializado no desenvolvimento de pipelines automatizados, computação em nuvem (AWS) e integração de dados multi-ômicos. Meu trabalho conecta bioinformática e engenharia de dados para processar terabytes de informações, com foco em monitoramento ambiental, saúde única (*One Health*) e modelagem estatística avançada. Sempre explorando IA agentiva e machine learning para otimizar fluxos de trabalho.
+**PT:** Doutor em Genética e Biologia Molecular e Cientista de Dados especializado no desenvolvimento de pipelines automatizados, computação em nuvem (AWS) e integração de dados multi-ômicos. Meu trabalho conecta bioinformática e engenharia de dados para processar terabytes de informações, com foco em monitoramento ambiental, saúde única (*One Health*) e modelagem estatística avançada. 
 
 ## You can follow me at:
 <div> 
